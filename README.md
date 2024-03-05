@@ -12,3 +12,4 @@ I curate and share projects on this platform purely for enjoyment.
  [Click here for my portfolio](https://gcharmae.com)
  
 ![Charmae's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charmae)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=charmae&format=true)
