@@ -1,8 +1,8 @@
 
-👩‍💻 Greetings! I am Charmae, a dedicated coder based in the Philippines.     
+👩‍💻 Greetings! I am Charmae!   
 I curate and share projects on this platform purely for enjoyment.
 
-- 💼 Currently working in a tech consulting company as an Integration Developer (Java Spring & MuleSoft)
+- 💼 Currently working in a tech consulting company.
 - 🌱 Constantly refining my skills in Python, React and Angular (Typescript)
 - 👥 Open to collaboration on projects related to Python and React/Angular
 - 📧 You can reach me at charmae@gcharmae.com
